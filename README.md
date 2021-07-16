@@ -1,8 +1,8 @@
 # G12 Computer Science Project
 Project for my senior year CS class
 
-# Computer Science project: School Vaccination Database Program
-# About and aim of the project: To store vaccination details of all students and teachers and create useful functions for the same
+- Computer Science project: School Vaccination Database Program
+- About and aim of the project: To store vaccination details of all students and teachers and create useful functions for the same
 
 Created by:
 Riju Marwah (12-G)
