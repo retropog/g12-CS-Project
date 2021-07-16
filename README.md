@@ -8,7 +8,7 @@ Created by:
 - Riju Marwah (12-G)
 - Sarthak Kumar (12-G)
 - Ratul Pal (12-G)
-- Session 2021-22 @ Sri Venkateshwar Internation School
+- (Session 2021-22 @ Sri Venkateshwar Internation School)
 
 External libraries, code and resources used:
 1) MySQL (To access SQL databases)
