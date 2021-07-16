@@ -1,4 +1,4 @@
-# G12 Computer Science Project
+# G12 Computer Science Project (School Vaccination Database System)
 Project for my senior year CS class
 
 - Computer Science project: School Vaccination Database Program
