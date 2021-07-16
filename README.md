@@ -1,4 +1,4 @@
-# g12-CS-Project
+# G12 Computer Science Project
 Project for my senior year CS class
 
 Computer Science project on (Project Name)
