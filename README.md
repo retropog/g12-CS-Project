@@ -18,4 +18,4 @@ External libraries, code and resources used:
 Steps for running the project:
 1) MySQL is a necessity and must be installed on your system
 2) Enter MySQL host, user, password and database name in the .env file
-3) Run this file (main.py)
+3) Run main.py
