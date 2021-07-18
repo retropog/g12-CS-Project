@@ -11,7 +11,7 @@ Created by:
 - (Session 2021-22 @ Sri Venkateshwar Internation School)
 
 External libraries, code and resources used:
-1) [MySQL (To access SQL databases)](https://pypi.org/project/mysql-connector-python/)
+1) [MySQL Python Connector (To access SQL databases)](https://pypi.org/project/mysql-connector-python/)
 2) [DotENV (To access the .env file and import environment variables)](https://pypi.org/project/python-dotenv/)
 3) [PrettyTable (To print data in tabular form)](https://pypi.org/project/prettytable/)
 
