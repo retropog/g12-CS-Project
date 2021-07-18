@@ -13,8 +13,9 @@ Created by:
 External libraries, code and resources used:
 1) MySQL (To access SQL databases)
 2) DotENV (To access the .env file and import environment variables)
+3) PrettyTable (To print data in tabular form)
 
 Steps for running the project:
 1) MySQL is a necessity and must be installed on your system
 2) Enter MySQL host, user, password and database name in the .env file
-3) (write all imporant steps here)
+3) Run this file (main.py)
