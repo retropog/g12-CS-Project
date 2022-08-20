@@ -19,3 +19,5 @@ Steps for running the project:
 1) MySQL is a necessity and must be installed on your system
 2) Enter MySQL host, user, password and database name in the .env file
 3) Run main.py
+
+Project Document: https://docs.google.com/document/d/1T3SgMw9Vw3yUGqUrdkskfOMKbSKMkS-X/edit?usp=sharing&ouid=114350839408120873847&rtpof=true&sd=true
